@@ -1,4 +1,4 @@
-.gitignore
+gitignore
 cars.csv
 dt_model.sav
 svm_model.sav

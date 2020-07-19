@@ -41,7 +41,7 @@ To make a prediction execute the following command line:
 curl -d '{"data": "dt vhigh vhigh 2 2 small low"}' http://127.0.0.1:5000/predict
 ```
 
-The above command makes a prediction using the Decision Tree Classifier (**dt**), for the car with features **vhigh vhigh 2 2 small low**.
+The above command makes a prediction using the Decision Tree Classifier (**dt**), for the car with feature values **vhigh vhigh 2 2 small low**, for each of the features buying price, maintenance price, number of doors, person capacity, luggage boot, safety respectively.
 
 
 The input for the prediction is provided with a dictionary having as follows:
