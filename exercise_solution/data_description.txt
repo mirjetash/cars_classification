@@ -1,0 +1,17 @@
+buying price:           
+	v-high, high, med, low
+maintenance price:
+	v-high, high, med, low
+number of doors:
+	2, 3, 4, 5-more
+person capacity:
+    2, 4, more
+luggage boot:
+	small, med, big
+safety:
+	low, med, high
+
+
+acceptability:
+	unacc, acc, good, v-good
+
