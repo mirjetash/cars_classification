@@ -60,3 +60,6 @@ Based on which classifier you want to use either SVM or Decision Tree set the <c
 * svm_model.sav: pre trained Support Vector Machine Classifier 
 
 ** dt_model.sav, and svm_model.sav are used by the model_api.py to make predictions
+
+
+
